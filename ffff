@@ -1,0 +1,40 @@
+ <div class="keep">
+                    <input type="email" name="" id="" placeholder="Your email"><input type="submit" value="submit">
+                    <a href="" class="follow">Follow us</a>
+                    <a href=""><img src="./images/Fb white.png" alt=""></a>
+                    <a href=""><img src="./images/" alt=""></a>
+                    <a href=""><img src="./images/G white.png" alt=""></a>
+                    <a href=""><img src="./images/In White.png" alt=""></a>
+                    <a href=""><img src="./images/Twitter White.png" alt=""></a>
+                </div>
+                <div class="foot3">
+                    <h1 class="contactus">Contact Us</h1>
+                    <p class="address">NO 21 Favours,Bodija Ibadan, Nigeria</p>
+                    <label for="">+23410725697</label>
+                    <p>oladpjabolatito@gmail.com</p>
+                </div>
+                <div class="foot2">
+                    <div class="cat">
+                         <h1 class="categories">Categories</h1>
+                    </div>
+                 <div class="bars2">
+                    <ul>
+                        <li><a href="" class="gory">Shoes</a></li>
+                        <li><a href="" class="gory">Hotels</a></li>
+                        <li><a href="" class="gory">Restaurants</a></li>
+                        <li><a href="" class="gory">Bars</a></li>
+                        <li><a href="" class="gory">Events</a></li>
+                        <li><a href="" class="gory">Fitness</a></li>
+                    </ul>
+                </div>
+                </div>
+                <nav class="link2">
+                    <ul>
+                        <li><a href="" class="links2">Shoes</a></li>
+                        <li><a href="" class="links2">Hotels</a></li>
+                        <li><a href="" class="links2">Restaurants</a></li>
+                        <li><a href="" class="links2">Bars</a></li>
+                        <li><a href="" class="links2">Events</a></li>
+                        <li><a href="" class="links2">Fitness</a></li>
+                    </ul>
+                 </nav>
